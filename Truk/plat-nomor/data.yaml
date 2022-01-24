@@ -1,0 +1,5 @@
+train: Truk/train/images
+val: Truk/valid/images
+
+nc: 1
+names: ['Plat']

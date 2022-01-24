@@ -1,0 +1,5 @@
+train: Truk/kendaraan/train/images
+val: Truk/kendaraan/valid/images
+
+nc: 6
+names: ['0', 'Bus', 'Mobil', 'Motor', 'Plat', 'Truk']
